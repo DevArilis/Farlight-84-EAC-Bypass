@@ -1,0 +1,10 @@
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\bin\Debug\Farlight 84 EAC Auto-Bypass.exe.config
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\bin\Debug\Farlight 84 EAC Auto-Bypass.exe
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\bin\Debug\Farlight 84 EAC Auto-Bypass.pdb
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\obj\Debug\Farlight 84 EAC Auto-Bypass.csproj.AssemblyReference.cache
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\obj\Debug\Farlight 84 EAC Auto-Bypass.csproj.CoreCompileInputs.cache
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\obj\Debug\Farlight 84 EAC Auto-Bypass.csproj.CopyComplete
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\obj\Debug\Farlight 84 EAC Auto-Bypass.exe
+C:\Users\arili\source\repos\Farlight 84 EAC Auto-Bypass\Farlight 84 EAC Auto-Bypass\obj\Debug\Farlight 84 EAC Auto-Bypass.pdb
